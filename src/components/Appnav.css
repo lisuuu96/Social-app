@@ -1,0 +1,17 @@
+.mainnav ul {
+    padding: 0;
+}
+
+.mainnav ul li {
+    display: inline-block;
+    padding: 15px;
+
+}
+
+.mainnav ul li a {
+    text-decoration: none;
+}
+
+.mainnav ul li a:hover{
+    text-decoration: underline;
+}
